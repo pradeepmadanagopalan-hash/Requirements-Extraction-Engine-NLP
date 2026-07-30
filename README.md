@@ -1,5 +1,9 @@
 # Requirements-Extraction-Engine-NLP
 
+[Requirements Engineering Tool] Rule-based pipeline for extracting and structuring requirements from safety-critical regulatory documents to support traceability and systems engineering analysis.
+
+---
+
 ⭐ **1. Introduction**
 
 Safety-critical automotive and aerospace systems rely on requirements management tools such as IBM DOORS, Jama Connect, and Polarion to ensure traceability, validation, and compliance across the system lifecycle. These tools depend on structured requirements derived from regulatory documents and standards.
